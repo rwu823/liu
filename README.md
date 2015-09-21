@@ -1,4 +1,6 @@
 # 嘸蝦米輸入法 OSX
 
 ## 安裝
-    ~/Library/Application\ Support/OpenVanilla/UserData/TableBased/liu7.cin
+    curl https://raw.githubusercontent.com/rwu823/liu/master/install.sh | sh
+
+That's all. Enjoy !!

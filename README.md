@@ -7,7 +7,9 @@
 ![](https://raw.githubusercontent.com/rwu823/liu/master/screens/1.png)
 ![](https://raw.githubusercontent.com/rwu823/liu/master/screens/2.png)
 
-## That's all. Enjoy !!
+## 字根檔
+你可以自由定義字根檔。
+    ~/Library/Application\ Support/OpenVanilla/UserData/TableBased/liu7.cin
 
 ## 感謝
 [香草輸入法](https://openvanilla.org/)

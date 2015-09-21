@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>13F34</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>OpenVanilla</string>
+	<key>CFBundleIconFile</key>
+	<string>OpenVanilla-App.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.openvanilla.inputmethod.OpenVanilla</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>OpenVanilla</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.11</string>
+	<key>CFBundleSignature</key>
+	<string>OPVN</string>
+	<key>CFBundleVersion</key>
+	<string>3164</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>6A317</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>13F26</string>
+	<key>DTSDKName</key>
+	<string>macosx10.9</string>
+	<key>DTXcode</key>
+	<string>0600</string>
+	<key>DTXcodeBuild</key>
+	<string>6A317</string>
+	<key>InputMethodConnectionName</key>
+	<string>OpenVanilla_1_Connection</string>
+	<key>InputMethodServerControllerClass</key>
+	<string>OVInputMethodController</string>
+	<key>InputMethodServerDelegateClass</key>
+	<string>OVInputMethodController</string>
+	<key>InputMethodServerPreferencesWindowControllerClass</key>
+	<string>OVPreferencesWindowController</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<false/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.6</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2004-2012 The OpenVanilla Project.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>TISInputSourceID</key>
+	<string>org.openvanilla.inputmethod.OpenVanilla</string>
+	<key>TISIntendedLanguage</key>
+	<string>zh-Hant</string>
+	<key>tsInputMethodCharacterRepertoireKey</key>
+	<array>
+		<string>Hant</string>
+		<string>Hans</string>
+	</array>
+	<key>tsInputMethodIconFileKey</key>
+	<string>OpenVanilla-InputMenu.tiff</string>
+</dict>
+</plist>

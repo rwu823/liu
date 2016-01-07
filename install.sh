@@ -11,3 +11,6 @@ echo "Installed... ~/Library/Input Methods/OpenVanilla.app";
 echo "Installed... ~/Library/Application Support/OpenVanilla/UserData/TableBased/liu7.cin";
 
 open /System/Library/PreferencePanes/Keyboard.prefPane;
+
+# remove the .zip file
+rm ./OpenVanilla%2Bliu.zip;

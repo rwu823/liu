@@ -1,7 +1,7 @@
 #!/bin/bash
 
-curl -LO https://github.com/rwu823/liu/raw/master/src/OpenVanilla%2Bliu.zip &&
-unzip ./OpenVanilla+liu.zip &&
+curl -L https://github.com/rwu823/liu/raw/master/src/OpenVanilla%2Bliu.zip -o OpenVanilla_liu.zip &&
+unzip ./OpenVanilla_liu.zip &&
 mv ./OpenVanilla.app ~/Library/Input\ Methods/ &&
 
 mkdir -p ~/Library/Application\ Support/OpenVanilla/UserData/TableBased &&
@@ -13,4 +13,4 @@ echo "Installed... ~/Library/Application Support/OpenVanilla/UserData/TableBased
 open /System/Library/PreferencePanes/Keyboard.prefPane;
 
 # remove the .zip file
-rm ./OpenVanilla%2Bliu.zip;
+rm ./OpenVanilla_liu.zip;
